@@ -1,0 +1,43 @@
+html {
+  font-size: 10px;
+  font-family: "Noto Sans Mono", monospace;
+  background-color: #f8e37c;
+  color: #000000;
+}
+body {
+  width: 50%;
+  margin: 0 auto;
+  background-color: #ff9500;
+  padding: 0 20px;
+  border: 5px solid rgb(255, 221, 68);
+}
+h1 {
+  text-align: center;
+  font-size: 50px;
+}
+h2 {
+  font-size: 40px;
+}
+h3 {
+  font-size: 30px;
+}
+h1,
+h2,
+h3 {
+  margin: 0;
+  padding: 20px 0;
+  color: #f8e37c;
+  text-shadow: 3px 3px 1px #e87c7c;
+}
+p,
+li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+img {
+  display: block;
+  margin: 0 auto;
+  width: 400px;
+  height: 300px;
+}
